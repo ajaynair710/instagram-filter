@@ -1,7 +1,7 @@
-# instagram-filter
-Which football player are you???
-##
-![video](./demo/demo.gif)
+# Instagram Filters made in SparkAR
+Some Instagram Filters
+1. Favourite Footballer
+
 
 ## :star: What is it?
 This is an Instagram filter made to learn SparkAR. 
