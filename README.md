@@ -1,6 +1,11 @@
 # Instagram Filters made in SparkAR
 Some Instagram Filters
-1. Favourite Footballer
+1. Bunny Mask
+2. Favourite Footballer
+3. Floating Particles
+4. Giraffe Face
+5. Light Leak
+6. Pizza Rain
 
 
 ## :star: What is it?
